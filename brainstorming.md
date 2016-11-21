@@ -10,6 +10,13 @@ Original creator can set a shopping list to shared editing or private editing. E
 When showing matching stores, keep lists with shared editing at the top to emphasize collaboration.
 
 
+**Problem**: Geocoding and reverse Geocoding.
+
+I want to get an address input from users, find the store at that location, and store the store based on its coordinates. Might want to store the address as well to reduce calls to the Geo API. 
+
+**possible solutions**
+
+Look into [this](http://chrisalbon.com/python/geocoding_and_reverse_geocoding.html)
 
 ## Database model:
 
